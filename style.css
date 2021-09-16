@@ -1,0 +1,39 @@
+table {
+    border-spacing: 5px;
+  }
+td {
+    border: 1px solid black;
+}
+.spaces{
+    border: 0px solid black;
+}
+.yell{
+    background-color: #FCF75E;
+}
+.red{
+    background-color: #D73B3E;
+}
+.blue{
+    background-color:#7FFFD4;
+}
+.brown{
+    background-color:#FAD6A5;
+}
+.green{
+    background-color:#87A96B;
+}
+.l_gray{
+    background-color: #D3D3D3;
+}
+.d_gray{
+    background-color: #A9A9A9;
+}
+.l_pink{
+    background-color:  #FFC1CC;
+}
+.d_pink{
+    background-color: #DDA0DD;
+}
+.purple{
+    background-color: #FC8EAC; 
+}
